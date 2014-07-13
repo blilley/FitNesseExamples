@@ -216,3 +216,4 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 /FitNesse/FitNesseRoot/files
+/FitNesse/FitNesseRoot/FitNesse
