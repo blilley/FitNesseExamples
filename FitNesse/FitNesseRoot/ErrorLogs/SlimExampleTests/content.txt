@@ -1,0 +1,8 @@
+
+!3 !-slim:FitSharp\Runner.exe-!
+|'''Date: '''| 6:49:35 PM (EDT) on Sunday, July 13, 2014 |
+|'''Test Page: '''|.SlimExampleTests|
+|'''Command: '''| !-FitSharp\Runner.exe -r fitSharp.Slim.Service.Runner ..\src\FitNesseExamples\bin\Debug\FitNesseExamples.dll 8086-! |
+|'''Exit code: '''| 0 |
+|'''Time elapsed: '''| 1.092 seconds |
+

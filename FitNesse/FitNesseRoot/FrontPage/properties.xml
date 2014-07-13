@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<properties>
+	<AddChild/>
+	<Edit/>
+	<Files/>
+	<Properties/>
+	<Prune/>
+	<RecentChanges/>
+	<Search/>
+	<Static/>
+	<Versions/>
+	<WhereUsed/>
+	<WikiImport>
+		<AutoUpdate/>
+		<IsRoot/>
+		<Source>http://battlestation:8080/FrontPage</Source>
+	</WikiImport>
+</properties>

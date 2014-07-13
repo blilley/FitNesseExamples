@@ -1,0 +1,3 @@
+!define TEST_SYSTEM {slim}
+!define COMMAND_PATTERN {%m -r fitSharp.Slim.Service.Runner %p}
+!define TEST_RUNNER {FitSharp\Runner.exe}

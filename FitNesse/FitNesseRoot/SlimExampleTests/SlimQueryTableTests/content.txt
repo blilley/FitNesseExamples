@@ -1,0 +1,4 @@
+|Query: employees hired before|10-Dec-1980|
+|employee number|first name|last name|hire date|
+|1429||||
+|8832||||

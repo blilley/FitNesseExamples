@@ -1,0 +1,5 @@
+!path ..\src\FitNesseExamples\bin\Debug\FitNesseExamples.dll
+!define COLLAPSE_SETUP {true}
+!define COLLAPSE_TEARDOWN {true}
+
+!contents -R2 -g -p -f -h
